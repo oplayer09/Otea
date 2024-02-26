@@ -1,2 +1,2 @@
-# Otea
+# tea
 for living tea
